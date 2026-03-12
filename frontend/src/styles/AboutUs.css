@@ -1,6 +1,6 @@
 /* Base styles (desktop first) */
 .aboutus-container {
-  color: #222;
+  color: #222222;
   padding: 60px 20px;
   max-width: 1200px;
   margin: auto;
@@ -97,6 +97,7 @@
 
 /* Responsive behavior */
 @media (max-width: 1024px) {
+
   .aboutus-hero,
   .aboutus-flex {
     gap: 30px;
@@ -124,6 +125,7 @@
 }
 
 @media (max-width: 768px) {
+
   .aboutus-hero,
   .aboutus-flex {
     flex-direction: column;
