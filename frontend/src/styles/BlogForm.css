@@ -93,7 +93,6 @@
   }
 }
 
-/* ===== Tablet (≤ 1024px) ===== */
 @media (max-width: 1024px) {
   .blog-form-wrapper {
     padding: 50px 15px;
