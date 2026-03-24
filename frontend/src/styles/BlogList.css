@@ -135,7 +135,7 @@
   }
 
   .blog-list-grid {
-    grid-template-columns: 1fr; /* Single column */
+    grid-template-columns: 1fr; 
     gap: 25px;
   }
 
