@@ -157,7 +157,6 @@
   }
 }
 
-/* ===== Small Mobile (≤ 480px) ===== */
 @media (max-width: 480px) {
   .blog-list-container {
     padding: 40px 12px;
