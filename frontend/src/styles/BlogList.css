@@ -123,7 +123,6 @@
   }
 }
 
-/* ===== Mobile (≤ 768px) ===== */
 @media (max-width: 768px) {
   .blog-header {
     flex-direction: column;
