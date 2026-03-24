@@ -36,8 +36,6 @@
   background: #4b2061;
   transform: scale(1.05);
 }
-
-/* ===== Blog Grid ===== */
 .blog-list-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
