@@ -101,7 +101,6 @@
   background: #4b2061;
 }
 
-/* ===== Tablet (≤ 1024px) ===== */
 @media (max-width: 1024px) {
   .blog-list-container {
     padding: 50px 15px;
