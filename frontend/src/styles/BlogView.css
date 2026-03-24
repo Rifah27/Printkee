@@ -16,7 +16,6 @@
   align-items: flex-start;
 }
 
-/* Left column - blog content */
 .blog-left {
   flex: 2;
   min-width: 0;
