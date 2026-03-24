@@ -5,13 +5,12 @@
   margin: auto;
 }
 
-/* ===== Header Section ===== */
 .blog-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
-  flex-wrap: wrap; /* allows wrapping on smaller screens */
+  flex-wrap: wrap; 
   gap: 16px;
 }
 
