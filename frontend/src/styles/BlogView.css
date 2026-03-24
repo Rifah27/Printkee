@@ -9,7 +9,6 @@
   border-radius: 20px;
 }
 
-/* Two-column wrapper */
 .blog-view-main {
   display: flex;
   flex-direction: row;
