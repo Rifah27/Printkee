@@ -74,7 +74,6 @@
   font-weight: 700;
 }
 
-/* Individual Comment Box */
 .comment {
   background-color: #ffffff;
   border-left: 5px solid #f39c12;
@@ -92,7 +91,6 @@
   font-size: 1rem;
 }
 
-/* Comment Form */
 .comment-form {
   display: flex;
   flex-direction: column;
