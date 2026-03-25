@@ -143,7 +143,6 @@
   transform: translateY(-2px);
 }
 
-/* Responsive Design */
 @media (max-width: 1024px) {
   .blog-view-container {
     padding: 40px 25px;
